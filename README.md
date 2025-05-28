@@ -1,6 +1,6 @@
 # EX-NO-9-RSA-Algorithm
-## NAME: REVATHI K
-## REG NO: 212223040169
+## NAME: SHOBANA B
+## REG NO: 212224230262
 ## AIM:
 To Implement RSA Encryption Algorithm in Cryptography
 
